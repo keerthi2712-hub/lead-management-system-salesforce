@@ -41,6 +41,14 @@ To improve lead handling efficiency by automatically categorizing and assigning 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9d52338-ca36-4dfa-a77f-4763d9a57d67" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b21c55c8-e88a-4297-a957-90db6bc34572" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f51f40a0-0c68-4f0f-87ea-550658697ccd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/922c4e4d-3a6c-4037-9f31-3bea183956f2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1083a2a9-b255-4b9f-aa25-7af0dc307066" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a16dc38b-2a1c-4edc-8722-c6b5c9f7b273" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/290d8273-846d-400e-ae72-350537cf46d7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84fba1e8-eac5-4136-a884-d14c41bcd0f0" />
+
+
+
 
 
 

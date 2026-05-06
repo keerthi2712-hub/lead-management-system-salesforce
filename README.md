@@ -34,7 +34,19 @@ To improve lead handling efficiency by automatically categorizing and assigning 
 5. When accepted, ownership transfers to the user.
 
 ## 📸 Screenshots
-(Add screenshots here: Lead creation, Flow setup, Queue assignment)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5dc927c-4986-4579-9b92-0ec277a934ca" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bf443b3-0fb6-4be1-96eb-eb10e280d513" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/94eb0662-d593-478e-bb15-4b71cbd6f995" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9d52338-ca36-4dfa-a77f-4763d9a57d67" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b21c55c8-e88a-4297-a957-90db6bc34572" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f51f40a0-0c68-4f0f-87ea-550658697ccd" />
+
+
+
+
+
+
 
 ## 🚀 Key Learning
 - Business process automation using Salesforce Flows
